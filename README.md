@@ -9,7 +9,7 @@
 <br>
 
 <!-- Status Badge -->
-<a href="mailto:muntasirmamunsakib263@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=muntasirmamunsakib263@gmail.com">
   <img src="https://img.shields.io/badge/OPEN_TO_WORK-Software_Engineering_Internship-F5A623?style=for-the-badge&labelColor=0B1220" alt="Open to Work"/>
 </a>
 
@@ -17,9 +17,9 @@
 
 <!-- Quick Links -->
 <a href="https://muntasirmamunsakib.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=F0C674"/></a>
-<a href="mailto:muntasirmamunsakib263@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=EF5350"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=muntasirmamunsakib263@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=EF5350"/></a>
 <a href="https://flowcv.com/resume/11uwto0pwmbr"><img src="https://img.shields.io/badge/Resume-0B1220?style=for-the-badge&logo=readdotcv&logoColor=F5A623"/></a>
-<a href="https://www.linkedin.com/in/muntasirmamunsakib/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=5B9BD5"/></a>
+<a href="https://www.linkedin.com/in/muntasir-mamun-sakib/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=5B9BD5"/></a>
 
 <br>
 
@@ -95,6 +95,20 @@ Final-year CSE student at **BRAC University** with a strong foundation in softwa
 
 <div align="center">
 
+<p>
+  <img src="https://api.iconify.design/octicon:mark-github.svg?color=%23F0C674" height="16" alt="github"/>&nbsp;&nbsp;<b>56</b> Contributions on GitHub
+  <br><br>
+  <img src="https://api.iconify.design/octicon:repo.svg?color=%23F0C674" height="16" alt="repos"/>&nbsp;&nbsp;<b>8</b> Public Repos
+  <br><br>
+  <img src="https://api.iconify.design/octicon:clock.svg?color=%23F0C674" height="16" alt="joined"/>&nbsp;&nbsp;Joined GitHub <b>8 years ago</b>
+  <br><br>
+  <img src="https://api.iconify.design/octicon:location.svg?color=%23F0C674" height="16" alt="location"/>&nbsp;&nbsp;Dhaka, Bangladesh
+</p>
+
+</div>
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuntasirMamunSakib/MuntasirMamunSakib/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuntasirMamunSakib/MuntasirMamunSakib/output/pacman-contribution-graph.svg">
@@ -115,7 +129,7 @@ Final-year CSE student at **BRAC University** with a strong foundation in softwa
 
 <br>
 
-<a href="mailto:muntasirmamunsakib263@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=muntasirmamunsakib263@gmail.com">
   <img src="https://img.shields.io/badge/Let's_Connect-F5A623?style=for-the-badge&labelColor=0B1220&logo=gmail&logoColor=F8F1E3"/>
 </a>
 
