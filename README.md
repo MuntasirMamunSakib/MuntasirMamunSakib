@@ -63,18 +63,6 @@ Final-year CSE student at **BRAC University** with a strong foundation in softwa
 
 ---
 
-## What I Build
-
-**Full-Stack** — MERN platforms with role-based dashboards, REST APIs, MongoDB/MySQL, TailwindCSS, SendGrid notifications, Leaflet GPS tracking
-
-**AI & Generative ML** — PyTorch pipelines with LSTM Autoencoders, VAEs, Causal Autoregressive Transformers, and RLHF alignment for symbolic MIDI generation
-
-**Graphics & Games** — OpenGL (PyOpenGL) + NumPy systems with lighting, wall-kicks, hold queues, ghost projections, and free camera control
-
-**Systems & Networks** — Enterprise designs in Cisco Packet Tracer: hybrid routing (RIPv2 + Static), VLSM, DHCP Relay, DNS/Email services
-
----
-
 ## Featured Projects
 
 <div align="center">
