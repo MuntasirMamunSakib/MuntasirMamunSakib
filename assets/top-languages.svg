@@ -1,0 +1,50 @@
+<svg width="467" height="265" viewBox="0 0 467 265" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleId descId">
+  <title id="titleId">Most Used Languages</title>
+  <desc id="descId">Jupyter Notebook 34.15%, JavaScript 28.08%, TeX 22.13%, PHP 9.92%, Python 4.98%, CSS 0.75%</desc>
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #F0C674; }
+    .lang { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #F8F1E3; }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" width="466" height="264" stroke="#1E3A5F" fill="#0B1220" stroke-opacity="1"/>
+  <g transform="translate(25, 35)">
+    <text class="header" x="0" y="0">Most Used Languages</text>
+  </g>
+
+  <!-- Progress bar: 417px wide, segments by % -->
+  <!-- Jupyter 34.15% = 142.4, JS 28.08% = 117.1, TeX 22.13% = 92.3, PHP 9.92% = 41.4, Python 4.98% = 20.8, CSS 0.75% = 3.1 -->
+  <g transform="translate(25, 70)">
+    <rect width="417" height="10" rx="5" fill="#152238"/>
+    <rect x="0" width="142.4" height="10" rx="0" fill="#DA5B0B"/>
+    <rect x="142.4" width="117.1" height="10" fill="#F1E05A"/>
+    <rect x="259.5" width="92.3" height="10" fill="#3D6117"/>
+    <rect x="351.8" width="41.4" height="10" fill="#4F5D95"/>
+    <rect x="393.2" width="20.8" height="10" fill="#3572A5"/>
+    <rect x="414" width="3.1" height="10" fill="#563D7C"/>
+    <!-- round left/right ends -->
+    <rect width="5" height="10" rx="5" fill="#DA5B0B"/>
+    <rect x="412" width="5" height="10" rx="5" fill="#563D7C"/>
+  </g>
+
+  <!-- Legend: 2 columns -->
+  <g transform="translate(25, 110)">
+    <!-- Left column -->
+    <circle cx="6" cy="6" r="5" fill="#DA5B0B"/>
+    <text class="lang" x="18" y="10">Jupyter Notebook 34.15%</text>
+
+    <circle cx="6" cy="36" r="5" fill="#F1E05A"/>
+    <text class="lang" x="18" y="40">JavaScript 28.08%</text>
+
+    <circle cx="6" cy="66" r="5" fill="#3D6117"/>
+    <text class="lang" x="18" y="70">TeX 22.13%</text>
+
+    <!-- Right column -->
+    <circle cx="230" cy="6" r="5" fill="#4F5D95"/>
+    <text class="lang" x="242" y="10">PHP 9.92%</text>
+
+    <circle cx="230" cy="36" r="5" fill="#3572A5"/>
+    <text class="lang" x="242" y="40">Python 4.98%</text>
+
+    <circle cx="230" cy="66" r="5" fill="#563D7C"/>
+    <text class="lang" x="242" y="70">CSS 0.75%</text>
+  </g>
+</svg>

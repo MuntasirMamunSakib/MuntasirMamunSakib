@@ -89,8 +89,8 @@ Final-year CSE student at **BRAC University** with a strong foundation in softwa
 ## GitHub Analytics
 
 <p align="center">
-  <img src="./assets/github-overview.svg" width="49%" alt="GitHub Overview"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MuntasirMamunSakib&layout=compact&hide_border=true&bg_color=0B1220&title_color=F0C674&text_color=F8F1E3" width="49%" alt="Top Languages"/>
+  <img src="./assets/github-overview.svg" width="400" height="227" alt="MuntasirMamunSakib Overview"/>
+  <img src="./assets/top-languages.svg" width="400" height="227" alt="Most Used Languages"/>
 </p>
 
 <div align="center">
