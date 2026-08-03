@@ -89,23 +89,9 @@ Final-year CSE student at **BRAC University** with a strong foundation in softwa
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=MuntasirMamunSakib&show_icons=true&hide_border=true&bg_color=0B1220&title_color=F0C674&icon_color=F5A623&text_color=F8F1E3&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="./assets/github-overview.svg" width="49%" alt="GitHub Overview"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MuntasirMamunSakib&layout=compact&hide_border=true&bg_color=0B1220&title_color=F0C674&text_color=F8F1E3" width="49%" alt="Top Languages"/>
 </p>
-
-<div align="center">
-
-<p>
-  <img src="https://api.iconify.design/octicon:mark-github.svg?color=%23F0C674" height="16" alt="github"/>&nbsp;&nbsp;<b>56</b> Contributions on GitHub
-  <br><br>
-  <img src="https://api.iconify.design/octicon:repo.svg?color=%23F0C674" height="16" alt="repos"/>&nbsp;&nbsp;<b>8</b> Public Repos
-  <br><br>
-  <img src="https://api.iconify.design/octicon:clock.svg?color=%23F0C674" height="16" alt="joined"/>&nbsp;&nbsp;Joined GitHub <b>8 years ago</b>
-  <br><br>
-  <img src="https://api.iconify.design/octicon:location.svg?color=%23F0C674" height="16" alt="location"/>&nbsp;&nbsp;Dhaka, Bangladesh
-</p>
-
-</div>
 
 <div align="center">
 
