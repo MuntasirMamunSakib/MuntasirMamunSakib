@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=F0C674&center=true&vCenter=true&random=false&width=700&lines=Final-year+CSE+%40+BRAC+University;Building+full-stack+%26+ML+systems;MERN+%E2%80%A2+PyTorch+%E2%80%A2+OpenGL;Seeking+Software+Engineering+Internship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=F0C674&center=true&vCenter=true&random=false&width=700&lines=Building+full-stack+%26+ML+systems;MERN+%E2%80%A2+PyTorch+%E2%80%A2+OpenGL;Seeking+Software+Engineering+Internship" alt="Typing SVG" />
 
 <br>
 
@@ -23,7 +23,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=MuntasirMamunSakib&style=for-the-badge&color=1E3A5F&labelColor=0B1220&label=VISITORS"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=MuntasirMamunSakib&style=for-the-badge&color=1E3A5F&labelColor=0B1220&label=VISITORS"/> -->
 
 </div>
 
@@ -107,16 +107,11 @@ Final-year CSE student at **BRAC University** with a strong foundation in softwa
 
 <div align="center">
 
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/
-MuntasirMamunSakib/MuntasirMamunSakib/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/
-MuntasirMamunSakib/MuntasirMamunSakib/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuntasirMamunSakib/
-MuntasirMamunSakib/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuntasirMamunSakib/MuntasirMamunSakib/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuntasirMamunSakib/MuntasirMamunSakib/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuntasirMamunSakib/MuntasirMamunSakib/output/pacman-contribution-graph.svg">
 </picture>
-
 
 </div>
 
