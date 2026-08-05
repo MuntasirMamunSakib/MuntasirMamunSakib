@@ -41,7 +41,7 @@ Final-year CSE student at **BRAC University** with a strong foundation in softwa
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,cpp,cs,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,flutter,js,python,typescript,cpp,cs&theme=dark" />
 </p>
 
 ### Frontend & Backend
